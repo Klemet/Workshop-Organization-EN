@@ -1,0 +1,67 @@
+---
+title: "Organization and open-source workshop"
+url: 'https://github.com/Klemet/Workshop-Organization-ENG'
+github-repo: "Klemet/Workshop-Organization-ENG"
+cover-image: "images/cover.png"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: book.bib
+biblio-style: apalike
+link-citations: yes
+description: "These pages contain the content of an open-source software discovery workshop for personal organization purposes, created by Clément Hardy."
+---
+
+![](./imgs/Cover_workshop.jpg)
+
+# Welcome !
+
+* * *
+
+**Before you start :**
+
+- `r emo::ji("arrow_left")` `r emo::ji("arrow_right")` *Move between pages by using the left or right arrows, or by using the table of contents on the left.*
+- `r emo::ji("clock4")` *Allow 3 to 4 hours of reading time if you want to read everything in detail.*
+
+**Happy reading !**
+
+* * *
+
+## Introduction
+
+**Our modern lives put us in constant contact with information**.
+
+> So much information that it can be very difficult to structure it, but also to find it.
+
+**Different softwares exist today to lighten the work that we ask our brains to manage this information**.
+
+> However, these programs are often owned by large corporations that are unclear about whether they have access to the stored data, and whether they share it with other companies or intelligence agencies. They also have methods or workings that are sometimes very rigid, and that may not be suitable for you.
+
+**However, it is possible to take advantage of the good sides of technology to be able to navigate this ocean of information, without compromising your privacy**.
+
+> This is the goal of this workshop, which will present you different free and open-source software. These will help you better manage the information you encounter on a daily basis, while having control over your data. It will also introduce you to different methods of organizing information to help you better manage it, by taking advantage of the different software you will discover.
+
+**The purpose of this workshop is not to present a rigid methodology that you should follow at all costs**.
+
+> This workshop is here to encourage you to discover and experiment, with one important caveat: remember that the perfect solution does not exist, and that experimentation can be exhausting if it is done for too long. Trust yourself, and give yourself time to try a system for a while before trying to change it!
+
+## Objectives of the workshop
+
+- Discover and learn to use the basic functions of the following software :
+  - `r emo::ji("white_check_mark")` Joplin
+  - `r emo::ji("white_check_mark")` Zotero
+  - `r emo::ji("white_check_mark")` Nextcloud
+- Learn how to use these different software programs together to manage information using the following methods :
+  - `r emo::ji("white_check_mark")` The *Zettelkasten* method
+  - `r emo::ji("white_check_mark")` The P.A.R.A method
+  - `r emo::ji("white_check_mark")` The inbox method
+
+  ## Presenter
+
+<div style="font-family:Lato; font-size:30px; text-align: center !important; width: 100%  !important;">
+![](./imgs/clement.png)
+[**Clément Hardy**](https://github.com/Klemet)
+</div>
+
+I am a PhD student in forest ecology, under the supervision of [Elise Filotas](http://elisefilotas.ca/en/home/) and [Christian Messier](www.cef-cfr.ca/index.php?n=Membres.ChristianMessier).
+
+Passionate about open-source software and organization methods, I decided to set up this workshop to share my little knowledge on the subject.

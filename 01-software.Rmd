@@ -1,0 +1,7 @@
+# Open-source software to get organized
+
+We will start by discovering different software that makes it easy to get organized.
+
+All of these softwares are *open-source* (their source code, and thus their functioning, is visible to everyone). They are also free (no subscription, purchase, or other).
+
+However, they require a little time to install and get used to them, which is why this workshop will try to make easier for you.
