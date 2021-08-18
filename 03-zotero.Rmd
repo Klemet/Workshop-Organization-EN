@@ -90,7 +90,7 @@ To do this, you just need to click on the connector button in your web browser, 
 - Open Joplin.
 - Go to the `Tools` tab, then click on `Options`.
 - Go to the `Plugins` tab in the options menu.
-- In the search bar, look for the `Quick Links` plugin and install it.
+- In the search bar, look for the `Bibtex` plugin and install it.
 - Restart Joplin.
 - Go back to the `Tools` tab, then click on `Options`.
 - Go to the `BibTex Plugin` tab that appeared in the options.

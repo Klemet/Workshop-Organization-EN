@@ -197,7 +197,7 @@ During these exercises, we will set up a Zettelkasten in the Joplin software. Ho
 - In the "Atomic Notes" notebook you created earlier, write 6 different *Zettels*. Try to put references in them, find labels for them, and make links between them.
   - To make a label in Joplin, click on the `Click to add labels` button at the bottom of the screen. In the window that opens, you can find a drop-down list of tags that already exist; or, you can create new ones.
   - To get a Markdown link to a given note, right-click on that note in the note list, and choose the option `Get Markdown Link`.
-- To help you, here is a list of titles/themes for these *Zettels***, with a small link to a web page that will offer you interesting information to fill it in:
+- To help you, here is a list of titles/themes for these *Zettels*, with a small link to a web page that will offer you interesting information to fill it in:
 
 > [Elephants may hear the sound of clouds](http://www.bbc.com/earth/story/20151115-elephants-can-hear-the-sound-of-approaching-clouds)
 
