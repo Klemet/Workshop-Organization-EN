@@ -1,4 +1,6 @@
-![](./imgs/Cover_workshop.jpg)
+<p align="center">
+  <img src="./imgs/Logo atelier organisation EN.svg" />
+</p>
 
 This repository contains the content of the workshop I'm developing to help people discover open-source software, in order to better organize themselves and the information they come in contact with on a daily basis.
 
