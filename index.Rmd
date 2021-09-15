@@ -64,6 +64,6 @@ description: "These pages contain the content of an open-source software discove
 [**Clément Hardy**](https://github.com/Klemet)
 </div>
 
-I am a PhD student in forest ecology, under the supervision of [Elise Filotas](http://elisefilotas.ca/en/home/) and [Christian Messier](www.cef-cfr.ca/index.php?n=Membres.ChristianMessier).
+I am a PhD student in forest ecology, under the supervision of [Elise Filotas](http://elisefilotas.ca/en/home/) and [Christian Messier](http://www.cef-cfr.ca/index.php?n=Membres.ChristianMessier).
 
 Passionate about open-source software and organization methods, I decided to set up this workshop to share my little knowledge on the subject.
