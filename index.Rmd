@@ -57,7 +57,7 @@ description: "These pages contain the content of an open-source software discove
   - `r emo::ji("white_check_mark")` The P.A.R.A method
   - `r emo::ji("white_check_mark")` The inbox method
 
-  ## Presenter
+## Presenter
 
 <div style="font-family:Lato; font-size:30px; text-align: center !important; width: 100%  !important;">
 ![](./imgs/clement.png)
