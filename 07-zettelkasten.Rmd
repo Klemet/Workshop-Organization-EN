@@ -8,7 +8,7 @@ The word *Zettelkasten* comes from German, and could be translated as "note box"
 
 It is a method used in scientific research or studies; however, it can also be useful for organizing your general knowledge.
 
-This method was developed by Conrad Gessner in the 16th century, and has been used by various researchers since. In particular, Nijlas Luhmann (German sociologist) had a *Zettelkasten* of 90,000 cards, to which he attributed much of his great writing productivity (more than 70 books and 400 scientific articles during his lifetime).
+This method was developed by Conrad Gessner in the 16th century, and has been used by various researchers since. In particular, Niklas Luhmann (German sociologist) had a *Zettelkasten* of 90,000 cards, to which he attributed much of his great writing productivity (more than 70 books and 400 scientific articles during his lifetime).
 
 ### Purpose of the *Zettelkasten*
 
